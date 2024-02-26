@@ -1,7 +1,7 @@
 # Random_passwordgenerator
 
 
-###This Python script generates random passwords based on user-defined criteria. It's a useful tool for creating strong and secure passwords.
+This Python script generates random passwords based on user-defined criteria. It's a useful tool for creating strong and secure passwords.
 
 ## Features
 
